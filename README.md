@@ -1,8 +1,4 @@
-Here’s a README.md template for your Streamlit chatbot application:
-
-Bournemouth University Chatbot
-
-A Streamlit-powered chatbot designed to assist new and prospective students at Bournemouth University. This chatbot answers frequently asked questions (FAQs) about courses, campus life, accommodation, and student resources. It also provides helpful links for further information tailored to user queries using Google’s Generative AI API (Gemini).
+This is a Streamlit-powered chatbot designed to assist new and prospective students at Bournemouth University. This chatbot answers frequently asked questions (FAQs) about courses, campus life, accommodation, and student resources. It also provides helpful links for further information tailored to user queries using Google’s Generative AI API (Gemini).
 
 Features
 
