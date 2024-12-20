@@ -66,7 +66,6 @@ development folder/
 ├── .env                 # Environment variables (API key)
 ├── README.md            # Project documentation
 ├── Subdirectory/        # (Optional) Additional resources
-└── .venv/               # Virtual environment (not included in version control)
 
 Customizing the Chatbot
 
